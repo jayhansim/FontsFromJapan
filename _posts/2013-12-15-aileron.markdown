@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Aileron"
+date:   15 December 2013
+designer: Sora Sagano
+weight: 16 (UltraLight, Thin, Light, Regular, SemiBold, Bold, Heavy, Black with italic version each weight)
+personaluse: "Yes"
+commercialuse: "Yes"
+downloadlink: http://dotcolon.net/font/aileron/
+thumbnail: 1-aileron-thumb.png
+image: 1-aileron.png
+category: "sans serif"
+---
+
+Aileron is a high quality sans serif font designed by Sora Sagano. With the reference from the popular font [Helvetica][1], Mr. Sagano added his own touch to the design to make it more curvy and elegant. According to him, the design was close to Helvetica, but closer to [Univers][2] in terms of concept.
+
+[1]: http://en.wikipedia.org/wiki/Helvetica
+[2]: http://en.wikipedia.org/wiki/Univers

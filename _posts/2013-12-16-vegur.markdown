@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Vegur"
+date:   16 December 2013
+designer: Sora Sagano
+weight: 3 (Light, Regular, Bold)
+personaluse: "Yes"
+commercialuse: "Yes"
+downloadlink: http://dotcolon.net/font/vegur/
+thumbnail: 2-vegur-thumb.png
+image: 2-vegur.png
+category: "sans serif"
+---
+
+Vegur is a humanist sans serif font designed by Sora Sagano that you can download for free. This font equipped with diacritical mark too. Overall this is a very elegant and good looking font.

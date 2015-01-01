@@ -1,0 +1,5 @@
+markdown: redcarpet
+pygments: true
+permalink: /:title
+paginate: 10
+paginate_path: "/page:num"

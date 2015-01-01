@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Quote"
+date:   24 December 2013
+designer: Yosuke Masaki
+weight: 1
+personaluse: "Yes"
+commercialuse: "Yes"
+downloadlink: http://yosukemasaki.com/quote/
+thumbnail: 5-quote-thumb.png
+image: 5-quote.jpg
+category: "pop"
+---
+
+Quote is a rounded pop font that was designed by Japanese designer Yosuke Masaki. According to him, he saw a lot of rounded fonts on the street but can't find one that can be used on general purpose so he created one. The font is rounded but yet has the serious look with little personality so meaning of the font changed depending on the design.

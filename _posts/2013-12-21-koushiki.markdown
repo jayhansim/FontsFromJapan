@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Koushiki Sans Font"
+date:   21 December 2013
+designer: KOUSHIKI
+weight: 2 (Light, Regular)
+personaluse: "Yes"
+commercialuse: "Yes"
+downloadlink: http://font.koushiki.org/
+thumbnail: 3-koushiki-sans-font-thumb.png
+image: 3-koushiki-sans-font.png
+category: "sans serif"
+---
+
+KOUSHIKI SANS FONT keeps the basic shape of Gothic Fonts, while allowing a presence of individuality and unique visibility. This font can allow you to express beautiful characters either on your website, infographics, billboards, signs, large graphics and document headlines.

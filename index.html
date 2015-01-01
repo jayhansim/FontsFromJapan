@@ -1,0 +1,38 @@
+---
+layout: default
+title: Fonts From Japan
+---
+
+<section class="main main--default" role="main">
+	
+	{% for post in paginator.posts %}
+	<article class="post post--pagecurl post--list invert">
+
+		<header class="post__header post__header--list invert">
+			<h2 class="post__title post__title--list">
+				<a href="{{ post.url }}">{{ post.title }}</a>
+			</h2>
+		</header>
+		<a href="{{ post.url }}"><img src="/img/{{ post.thumbnail }}" alt="{{ post.title }}" class="post__image post__image--list"></a>
+	</article>
+	{% endfor %}
+
+</section>
+
+<div class="ad ad--leaderboard__bottom">
+</div>
+
+<div class="pagination">
+	{% if paginator.previous_page %}
+  {% if paginator.previous_page == 1 %}
+      <a href="/" class="pagination__prev link--border">Prev</a>
+  {% else %}
+      <a href="/page{{paginator.previous_page}}" class="pagination__prev link--border">Prev</a>
+  {% endif %}
+  {% else %} 
+  {% endif %}
+	{% if paginator.next_page %}
+      <a href="/page{{paginator.next_page}}" class="pagination__prev link--border">Next</a>
+  {% else %}
+  {% endif %}
+</div>

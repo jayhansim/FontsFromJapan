@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Rainfall"
+date:   25 December 2013
+designer: Yosuke Masaki
+weight: 4 (1 solid + 3 line pattern)
+personaluse: "Yes"
+commercialuse: "Yes"
+downloadlink: http://yosukemasaki.com/rainfall/
+thumbnail: 6-rainfall-thumb.png
+image: 6-rainfall.png
+category: "pop"
+---
+
+Rainfall is a font consists of 4 font families: 1 solid font with 3 line pattern fonts that looks like a gradient from solid color to transparent. You can use them, mix and match, or overlay on top of each other to create a variety of different styles of designs. Pretty cool.

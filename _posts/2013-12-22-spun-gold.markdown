@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "SPUN GOLD"
+date:   22 December 2013
+designer: Takehiko Ono
+weight: 1
+personaluse: "Yes"
+commercialuse: "Yes"
+downloadlink: http://spungold.flat.is/
+thumbnail: 4-spun-gold-thumb.png
+image: 4-spun-gold.png
+category: "geometric sans"
+---
+
+SPUN GOLD is a full scratched geometric font with the golden ratio flavor. It has the harmonious rounded feature, and can be used on both web and print.

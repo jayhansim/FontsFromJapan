@@ -1,0 +1,39 @@
+---
+layout: default
+---
+<section class="main main--single" role="main">
+
+	<article class="post post--pagecurl">
+		<header class="post__header post__header--single invert">
+			<h2 class="post__title post__title--single">{{ page.title }}</h2>	
+		</header>
+
+		<img src="/img/{{ page.image }}" alt="{{ page.title }}" class="post__image post__image--single">
+
+		<div class="post__content post__content--single">
+			{{ content }}
+
+			<dl class="fontinfo">
+				<dt>Font</dt><dd>{{ page.title}}</dd>
+				<dt>Designer</dt><dd> {{ page.designer }}</dd>
+				<dt>Weight</dt><dd>{{ page.weight }}</dd>
+				<dt>Personal use</dt><dd>{{ page.personaluse }}</dd>
+				<dt>Commercial use</dt><dd>{{ page.commercialuse }}</dd>
+			</dl>
+
+			<div class="post__download">
+				<a href="{{ page.downloadlink }}" target="_blank" class="link--border link--large">Go to download page</a>
+			</div>
+
+			<div class="ad ad--midrec__single">
+			
+			</div>
+		</div>
+
+	</article>
+
+	<div class="ad ad--leaderboard__bottom">
+    
+  </div>
+
+</section>
